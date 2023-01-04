@@ -1,1 +1,3 @@
 Added a repo live into github
+#Development
+1.Paractice the git commands.
